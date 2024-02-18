@@ -1,4 +1,4 @@
-# infinite-backend
+# Infinite Craft Architecture
 
 ## Run Locally
 
